@@ -48,7 +48,7 @@ python2 sh3k.py
 ```
 
 *   USERNAME: SHANTO HASAN
-*   Passwords : DARK CYBER
+*   Passwords : WORLD CLONER
 
 
 ## ***Follow Me***
